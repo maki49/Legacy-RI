@@ -8,7 +8,7 @@ It would be deleted after my refactor.
 However, 
 
 
-the author, @PeizeLin, may need to refer to it in the future. 
+the author, [@PeizeLin](https://github.com/PeizeLin), may need to refer to it in the future. 
 
 ---
 
